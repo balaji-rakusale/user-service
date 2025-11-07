@@ -16,7 +16,7 @@ This microservice handles user related data.
 
 ## Running the Service
  ### 1. Clone the repository:
-        git clone https://github.com/<your-username>/<repo-name>.git
+        git clone https://github.com/balaji-rakusale/user-service.git
         cd <repo-name>
  ### 2. Build and run:
         mvn clean install
@@ -26,6 +26,6 @@ This microservice handles user related data.
 ### 4. H2 Console (if used):
        http://localhost:8080/h2-console
 ### 5. API Testing:
-       Postman attached toi  the email
+       Postman collection attached to the email
 
 
