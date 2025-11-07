@@ -1,4 +1,4 @@
-# [Service Name] - user-service
+# [user-service]
 
 ## Overview
 This microservice handles user related data.
